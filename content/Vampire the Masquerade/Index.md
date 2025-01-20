@@ -5,9 +5,8 @@ longform:
   workflow: Default Workflow
   sceneFolder: Sessions
   scenes:
-    - 
-    - session 1
-    - session 2
+    - Session 1
+    - Session 2
   sceneTemplate: templates/Notes.md
   ignoredFiles: []
 ---
