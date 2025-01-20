@@ -19,6 +19,11 @@ Aimee is driven by perfection: particularly when it comes to the pursuit of voca
 Aimee gives off the vibe of a carefree, vivacious woman, someone who relishes the finer things in life. However, she is incredibly sensitive about her reputation and how she comes off to others. Her image is carefully constructed to what she believes is the perfect woman and she prefers to keep things that way.
 
 #### Relations
+
+| [[Naomi Sy]]       | Coworker |
+| ------------------ | -------- |
+| [[Rachel Collins]] | Coworker |
+
 [[Naomi Sy]] - Coworker
 [[Rachel Collins]] - Coworker
 [[Monsieur Donatien du Bious]] - Coworker
