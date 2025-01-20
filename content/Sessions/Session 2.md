@@ -1,3 +1,10 @@
+---
+title: Session 1
+draft: false
+tags:
+  - session
+date: 1-11-2025
+---
 A fight ensued with shovelheads:
 - A vampire with a third eye, screaming in the center
 - A vampire, woman in rages, super speed running around the room, also incredibly pale (frenzy)
