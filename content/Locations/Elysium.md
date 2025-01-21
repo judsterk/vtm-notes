@@ -4,4 +4,5 @@ draft: false
 tags:
   - location
 ---
-Where the Prince of Manila resides.
+Where the vampires gather (neutral ground). 
+I don't remember where it actually was LOL
