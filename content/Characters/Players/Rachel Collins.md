@@ -16,11 +16,12 @@ Rachel was a young scholar from the UK with a background in archaeology and a se
 
 She is mainly driven by curiosity and desire for knowledge. She seeks to uncover the hidden knowledge of occult/blood magic and also secretly hopes to use this knowledge to increase her influence within the Tremere clan.
 
-#### Relations
-[[Aimee Rivera]] - Coworker
-[[Naomi Sy]] - Coworker
-[[Monsieur Donatien du Bious]] - Coworker
-[[Lins En]] - Coworker
-[[Santiago Salazar]] - Coworker
-
-[[Bill]] - Acquaintance
+| Character                      | Relationship |
+| ------------------------------ | ------------ |
+| [[Aimee Rivera]]               | Coworker     |
+| [[Naomi Sy]]                   | Coworker     |
+| [[Monsieur Donatien du Bious]] | Coworker     |
+| [[Lins En]]                    | Coworker     |
+| [[Santiago Salazar]]           | Coworker     |
+|                                |              |
+| [[Bill]]                       | Acquaintance |

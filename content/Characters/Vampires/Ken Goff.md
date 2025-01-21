@@ -14,5 +14,6 @@ A former bounty hunter in his prime. His shadowlike skills are a step above. Fro
 
 Alas Ken's been in the field too long, no longer as motivated and wanting to take a back seat. He embraced Lins, knowing the price of information can fetch as much as a price of a head.
 
-#### Relations
-[[Lins En]] - Mentee
+| Character   | Relationship |
+| ----------- | ------------ |
+| [[Lins En]] | Mentee       |

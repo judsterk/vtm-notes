@@ -7,5 +7,6 @@ tags:
 ---
 One of the officers who's stationed nearby Sinister Spirits.
 
-#### Relations
-[[Inspector Jose]] - Coworker
+| Character          | Relationship |
+| ------------------ | ------------ |
+| [[Inspector Jose]] | Coworker     |

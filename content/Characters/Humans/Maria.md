@@ -7,7 +7,8 @@ tags:
 ---
 Called Jessica asking her whereabouts. Otherwise unknown.
 
-#### Relations
-[[Bro]] - Friend
-[[Roach]] - Friend
-[[Jessica Salazar]] - Friend
+| Character           | Relationship |
+| ------------------- | ------------ |
+| [[Bro]]             | Friend       |
+| [[Roach]]           | Friend       |
+| [[Jessica Salazar]] | Friend       |

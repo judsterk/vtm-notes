@@ -10,7 +10,8 @@ A very good looking male stripper who was often high on drugs. Very confident an
 
 Death: Bullet to the head
 
-#### Relations
-[[Roach]] - Friend
-[[Maria]] - Friend
-[[Jessica Salazar]] - Friend
+| Character           | Relationship |
+| ------------------- | ------------ |
+| [[Roach]]           | Friend       |
+| [[Maria]]           | Friend       |
+| [[Jessica Salazar]] | Friend       |

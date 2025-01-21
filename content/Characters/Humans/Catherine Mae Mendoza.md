@@ -8,5 +8,6 @@ tags:
 ---
 Naomi's assistant director who helps with the day to day running of Green Horizon.
 
-#### Relations
-[[Naomi Sy]] - Boss
+| Character    | Relationship |
+| ------------ | ------------ |
+| [[Naomi Sy]] | Boss         |

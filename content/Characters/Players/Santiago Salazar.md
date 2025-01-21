@@ -16,9 +16,10 @@ As a mortal he was from a well off family. Growing up, he saw the poverty in the
 
 His goals are to obtain power to fulfill his desires and see others who are not associated to him fail.
 
-#### Relations
-[[Aimee Rivera]] - Coworker
-[[Naomi Sy]] - Coworker
-[[Rachel Collins]] - Coworker
-[[Monsieur Donatien du Bious]] - Coworker
-[[Lins En]] - Coworker
+| Character                      | Relationship |
+| ------------------------------ | ------------ |
+| [[Aimee Rivera]]               | Coworker     |
+| [[Naomi Sy]]                   | Coworker     |
+| [[Rachel Collins]]             | Coworker     |
+| [[Monsieur Donatien du Bious]] | Coworker     |
+| [[Lins En]]                    | Coworker     |

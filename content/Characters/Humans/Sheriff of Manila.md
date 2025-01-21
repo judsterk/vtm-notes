@@ -7,5 +7,6 @@ tags:
 ---
 Newly appointed sheriff of Manila. Is acquainted with the Prince and now has contact with all of the crew.
 
-#### Relations
-[[Prince of Manila]] - Acquaintance
+| Character            | Relationship |
+| -------------------- | ------------ |
+| [[Prince of Manila]] | Acquaintance |

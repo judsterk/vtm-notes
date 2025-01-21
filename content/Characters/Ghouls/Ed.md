@@ -7,5 +7,6 @@ tags:
 ---
 The Prince of Manila's ghoul.
 
-#### Relations
-[[Prince of Manila]] - Master
+| Character            | Relationship |
+| -------------------- | ------------ |
+| [[Prince of Manila]] | Master       |

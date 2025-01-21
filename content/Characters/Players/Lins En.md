@@ -17,11 +17,13 @@ Lins was born to an average family. Being the middle child and shorter than usua
 On a seemingly regular night, Lins returns to find 4 people leaving his house. He was unnoticed by the unknown assailant by the cover of darkness. Yet his siblings were gone. To this day, Lins looks for them; any info, any knowledge of them, are up for grabs.
 
 He is short and slim with sharp eyes. He has short hair and a clean shaven face, not someone you would perceive as a threat. Always on the look for a locked safe, a closed door and sealed envelope.
-#### Relations
-[[Aimee Rivera]] - Coworker
-[[Naomi Sy]] - Coworker
-[[Rachel Collins]] - Coworker
-[[Monsieur Donatien du Bious]] - Coworker
-[[Santiago Salazar]] - Coworker
 
-[[Ken Goff]] - Sire
+| Character                      | Relationship |
+| ------------------------------ | ------------ |
+| [[Aimee Rivera]]               | Coworker     |
+| [[Naomi Sy]]                   | Coworker     |
+| [[Rachel Collins]]             | Coworker     |
+| [[Monsieur Donatien du Bious]] | Coworker     |
+| [[Santiago Salazar]]           | Coworker     |
+|                                |              |
+| [[Ken Goff]]                   | Sire         |

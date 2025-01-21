@@ -22,9 +22,11 @@ Sex: Male
 - Thinks he is French (he's not). Thinks he can speak French (he can't)
 - Thinks he has great deductive reasoning abilities (he does not)
 - Thinks he has a companion (imaginary) following him around, writing a detective novel about him.
-#### Relations
-[[Aimee Rivera]] - Coworker
-[[Naomi Sy]] - Coworker
-[[Rachel Collins]] - Coworker
-[[Lins En]] - Coworker
-[[Santiago Salazar]] - Coworker
+
+| Character            | Relationship |
+| -------------------- | ------------ |
+| [[Aimee Rivera]]     | Coworker     |
+| [[Naomi Sy]]         | Coworker     |
+| [[Rachel Collins]]   | Coworker     |
+| [[Lins En]]          | Coworker     |
+| [[Santiago Salazar]] | Coworker     |

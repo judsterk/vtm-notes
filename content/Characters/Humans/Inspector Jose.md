@@ -7,5 +7,6 @@ tags:
 ---
 One of the officers stationed nearby Sinister Spirits.
 
-#### Relations
-[[Inspector Manuel]] - Coworker
+| Character            | Relationship |
+| -------------------- | ------------ |
+| [[Inspector Manuel]] | Coworker     |

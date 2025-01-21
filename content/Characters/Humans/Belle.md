@@ -7,5 +7,6 @@ tags:
 ---
 An agent from MTV Asia. Helps Aimee with her gigs.
 
-#### Relations
-[[Aimee Rivera]] - Coworker
+| Character        | Relationship |
+| ---------------- | ------------ |
+| [[Aimee Rivera]] | Coworker     |

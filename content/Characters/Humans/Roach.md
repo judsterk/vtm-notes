@@ -7,7 +7,8 @@ tags:
 ---
 An unknown ally of Bro's and friend to Jessica. Created the 'Sniffer' app.
 
-#### Relations
-[[Bro]] - Friend
-[[Jessica Salazar]] - Friend
-[[Maria]] - Friend
+| Character           | Relationship |
+| ------------------- | ------------ |
+| [[Bro]]             | Friend       |
+| [[Maria]]           | Friend       |
+| [[Jessica Salazar]] | Friend       |

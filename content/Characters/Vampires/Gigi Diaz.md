@@ -9,5 +9,7 @@ tags:
 Clan Toreador
 
 An R&B singer from the 60's. Sired Aimee.
-#### Relations
-[[Aimee Rivera]] - Mentee
+
+| Character        | Relationship |
+| ---------------- | ------------ |
+| [[Aimee Rivera]] | Mentee       |
